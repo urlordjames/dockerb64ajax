@@ -1,2 +1,2 @@
 # dockerb64ajax
-using nginx docker to serve b64 images and decode them
+creating a docker container using a modified image of nginx to create ajax requests for base64 encoded images
